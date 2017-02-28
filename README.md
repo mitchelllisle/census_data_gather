@@ -1,6 +1,6 @@
 ![Hero](https://www.censusdata.abs.gov.au/webapi/images/sw2_logo.png)
 
-# Googleway Radar Plugin Exploratory
+# ABS Census Data Gather
 Exploratory Plugin for Google Radar R Package
 - This is a plugin for [Exploratory](https://exploratory.io/)
 - This package utilises the [httr](https://github.com/hadley/httr) and [jsonlite](https://github.com/jeroenooms/jsonlite) R package
